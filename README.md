@@ -1,1 +1,1 @@
-# knews-app
+# news-app
